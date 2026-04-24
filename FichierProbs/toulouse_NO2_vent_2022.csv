@@ -1,0 +1,801 @@
+nom_station                           , type_station, NO2 , jour, mois, annee, Force_vent_med
+Toulouse - Rte Albi Trafic            , Trafic      , 27.1,    1,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 25.9,    2,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 41.8,    3,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 48.5,    4,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 37.0,    5,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 44.8,    6,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 45.0,    7,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 33.0,    8,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 21.2,    9,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 46.4,   10,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 50.3,   11,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 40.5,   12,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 35.5,   13,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 20.1,   14,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 25.7,   15,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 13.5,   16,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 33.3,   17,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 23.5,   19,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 31.7,   20,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 49.9,   21,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 30.7,   22,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 20.7,   23,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 48.8,   24,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 35.2,   25,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 41.8,   26,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 26.9,   27,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 27.7,   28,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 18.7,   29,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 28.9,   30,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 43.0,   31,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 34.1,    1,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 47.9,    2,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 29.1,    3,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 13.4,    4,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 42.9,    5,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 32.0,    6,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 41.8,    7,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 51.5,    8,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 30.1,    9,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 45.3,   10,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 19.2,   11,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 32.5,   12,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 30.5,   13,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 44.9,   15,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 47.3,   16,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 29.4,   17,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 18.7,   18,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 15.7,   19,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 22.2,   20,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 31.5,   21,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 27.5,   22,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 40.9,   23,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 54.3,   24,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 33.5,   25,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 42.2,   26,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 25.8,   27,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 18.2,   28,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 35.9,   29,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 41.8,   30,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 22.5,    1,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 33.1,    2,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 35.4,    3,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 35.2,    4,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 47.5,    6,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 49.0,    7,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 42.2,    8,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 30.4,    9,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 26.4,   10,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 39.3,   11,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 39.5,   12,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 39.5,   13,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 42.0,   14,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 31.5,   15,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 30.1,   16,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 38.0,   17,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 26.3,   18,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 50.1,   19,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 46.2,   20,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 54.0,   21,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 43.1,   22,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 57.7,   23,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 36.1,   24,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 22.6,   25,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 35.9,   26,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 40.6,   27,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 34.1,   28,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 43.5,   29,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 34.8,   30,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 23.0,   31,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.8,    1,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.1,    2,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 23.8,    3,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.6,    4,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  9.0,    5,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.6,    6,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 14.6,    7,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.0,    8,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.1,    9,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  7.0,   10,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.4,   11,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 18.1,   12,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 12.2,   14,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  9.0,   15,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  2.5,   16,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  4.2,   17,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  4.7,   18,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.8,   19,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  7.5,   20,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.2,   21,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  9.4,   22,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.7,   23,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 27.2,   24,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.7,   25,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.0,   26,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.1,   27,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.3,   28,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  3.5,   29,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  4.0,   30,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 17.2,    1,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 24.3,    2,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.7,    3,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.7,    4,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.7,    5,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.9,    6,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 16.0,    7,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.1,    8,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.2,    9,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 30.1,   10,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.2,   11,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.0,   12,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 11.1,   13,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 12.6,   14,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.8,   15,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 18.1,   16,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 14.6,   17,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  7.1,   18,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.4,   19,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.4,   20,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.7,   21,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 16.6,   22,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 14.4,   23,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 30.2,   24,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.3,   25,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.6,   26,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.0,   28,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.7,   29,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.1,   30,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 17.2,    1,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.7,    2,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.1,    3,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 24.2,    4,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.4,    5,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 39.1,    6,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 43.2,    7,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 18.7,    8,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.0,    9,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.9,   10,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 35.4,   11,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 25.8,   12,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.9,   13,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.1,   14,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.8,   15,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 25.4,   16,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.0,   17,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.0,   18,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.3,   19,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.8,   20,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 27.7,   21,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 23.1,   22,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 31.8,   23,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.3,   25,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.6,   26,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.1,   27,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.0,   28,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.3,   29,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.9,   31,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.8,    1,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.1,    2,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 23.8,    3,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.6,    4,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  9.0,    5,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.6,    6,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 14.6,    7,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.0,    8,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.1,    9,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  7.0,   10,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.4,   11,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 18.1,   12,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 12.2,   14,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  9.0,   15,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  2.5,   16,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  4.2,   17,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  4.7,   18,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.8,   19,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  7.5,   20,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.2,   21,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  9.4,   22,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.7,   23,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 27.2,   24,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.7,   25,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.0,   26,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.1,   27,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.3,   28,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  3.5,   29,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  4.0,   30,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 17.2,    1,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 24.3,    2,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.7,    3,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.7,    4,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.7,    5,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.9,    6,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 16.0,    7,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.1,    8,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.2,    9,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 30.1,   10,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.2,   11,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.0,   12,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 11.1,   13,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 12.6,   14,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.8,   15,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 18.1,   16,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 14.6,   17,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  7.1,   18,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.4,   19,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.4,   20,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.7,   21,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 16.6,   22,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 14.4,   23,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 30.2,   24,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.3,   25,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.6,   26,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.0,   28,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.7,   29,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.1,   30,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 17.2,    1,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.7,    2,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.1,    3,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 24.2,    4,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.4,    5,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 39.1,    6,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 43.2,    7,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 18.7,    8,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.0,    9,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.9,   10,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 35.4,   11,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 25.8,   12,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.9,   13,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.1,   14,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.8,   15,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 25.4,   16,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.0,   17,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.0,   18,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.3,   19,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.8,   20,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 27.7,   21,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 23.1,   22,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 31.8,   23,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.3,   25,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.6,   26,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.1,   27,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.0,   28,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.3,   29,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.9,   31,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 41.0,    1,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.8,    2,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 63.1,    3,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 66.1,    4,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 42.8,    5,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 56.3,    6,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 50.2,    7,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 55.6,    8,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 32.4,    9,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 46.3,   10,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 62.5,   11,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 54.2,   12,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.8,   13,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 39.8,   14,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 34.9,   15,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 20.7,   16,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 28.8,   17,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 29.4,   18,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 33.3,   20,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 53.2,   21,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 35.4,   22,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 26.4,   23,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 62.5,   24,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 40.1,   25,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 43.5,   26,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 29.3,   27,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 33.4,   28,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 24.0,   29,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 30.5,   30,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 41.5,   31,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 49.2,    1,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 59.1,    2,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 39.3,    3,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 35.9,    4,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 55.1,    5,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 52.4,    6,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 44.4,    7,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.1,    8,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 51.1,    9,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 59.7,   10,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 29.7,   11,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 29.7,   12,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 38.4,   13,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 42.1,   15,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 53.5,   16,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 45.9,   17,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 43.7,   18,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 40.8,   19,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 43.3,   20,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 38.8,   21,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 44.4,   22,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.8,   23,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 56.1,   24,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.9,   25,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.9,   26,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 32.2,   27,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 38.0,   28,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 62.9,   29,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 52.4,   30,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 46.2,    1,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 47.8,    2,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 47.8,    3,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 44.8,    4,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 51.1,    5,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 68.1,    6,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 71.7,    7,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 45.4,    8,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 46.6,    9,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 46.5,   10,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.4,   12,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 41.3,   13,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 47.1,   14,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.1,   15,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 49.1,   16,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 50.8,   17,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 29.9,   18,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 33.1,   19,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 40.8,   20,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 53.4,   21,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 55.4,   22,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 60.1,   23,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 49.5,   24,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 32.6,   25,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 53.5,   26,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 60.0,   27,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 38.3,   28,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 45.0,   29,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 33.1,   30,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 22.4,   31,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.8,    1,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.1,    2,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 23.8,    3,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.6,    4,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  9.0,    5,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.6,    6,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 14.6,    7,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.0,    8,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.1,    9,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  7.0,   10,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.4,   11,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 18.1,   12,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 12.2,   14,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  9.0,   15,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  2.5,   16,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  4.2,   17,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  4.7,   18,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.8,   19,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  7.5,   20,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.2,   21,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  9.4,   22,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.7,   23,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 27.2,   24,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.7,   25,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.0,   26,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.1,   27,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.3,   28,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  3.5,   29,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  4.0,   30,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 17.2,    1,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 24.3,    2,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.7,    3,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.7,    4,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.7,    5,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.9,    6,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 16.0,    7,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.1,    8,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.2,    9,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 30.1,   10,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.2,   11,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.0,   12,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 11.1,   13,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 12.6,   14,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.8,   15,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 18.1,   16,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 14.6,   17,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  7.1,   18,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.4,   19,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.4,   20,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.7,   21,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 16.6,   22,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 14.4,   23,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 30.2,   24,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.3,   25,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.6,   26,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.0,   28,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.7,   29,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.1,   30,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 17.2,    1,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.7,    2,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.1,    3,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 24.2,    4,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.4,    5,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 39.1,    6,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 43.2,    7,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 18.7,    8,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.0,    9,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.9,   10,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 35.4,   11,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 25.8,   12,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.9,   13,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.1,   14,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.8,   15,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 25.4,   16,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.0,   17,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.0,   18,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.3,   19,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.8,   20,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 27.7,   21,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 23.1,   22,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 31.8,   23,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.3,   25,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.6,   26,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.1,   27,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.0,   28,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.3,   29,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.9,   31,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.8,    1,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.1,    2,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 23.8,    3,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.6,    4,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  9.0,    5,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.6,    6,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 14.6,    7,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.0,    8,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.1,    9,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  7.0,   10,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.4,   11,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 18.1,   12,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 12.2,   14,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  9.0,   15,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  2.5,   16,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  4.2,   17,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  4.7,   18,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.8,   19,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  7.5,   20,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.2,   21,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  9.4,   22,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.7,   23,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 27.2,   24,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.7,   25,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.0,   26,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.1,   27,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.3,   28,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  3.5,   29,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  4.0,   30,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 17.2,    1,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 24.3,    2,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.7,    3,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  5.7,    4,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.7,    5,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.9,    6,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 16.0,    7,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.1,    8,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 19.2,    9,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 30.1,   10,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.2,   11,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.0,   12,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 11.1,   13,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 12.6,   14,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.8,   15,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 18.1,   16,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 14.6,   17,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  7.1,   18,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.4,   19,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.4,   20,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.7,   21,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 16.6,   22,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 14.4,   23,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 30.2,   24,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.3,   25,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.6,   26,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.0,   28,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.7,   29,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.1,   30,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 17.2,    1,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.7,    2,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.1,    3,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 24.2,    4,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.4,    5,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 39.1,    6,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 43.2,    7,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 18.7,    8,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 22.0,    9,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.9,   10,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 35.4,   11,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 25.8,   12,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.9,   13,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 20.1,   14,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.8,   15,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 25.4,   16,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.0,   17,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.0,   18,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.3,   19,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 10.8,   20,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 27.7,   21,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 23.1,   22,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 31.8,   23,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.3,   25,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 21.6,   26,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 26.1,   27,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.0,   28,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.3,   29,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  6.9,   31,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 41.0,    1,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.8,    2,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 63.1,    3,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 66.1,    4,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 42.8,    5,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 56.3,    6,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 50.2,    7,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 55.6,    8,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 32.4,    9,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 46.3,   10,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 62.5,   11,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 54.2,   12,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.8,   13,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 39.8,   14,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 34.9,   15,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 20.7,   16,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 28.8,   17,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 29.4,   18,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 33.3,   20,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 53.2,   21,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 35.4,   22,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 26.4,   23,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 62.5,   24,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 40.1,   25,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 43.5,   26,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 29.3,   27,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 33.4,   28,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 24.0,   29,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 30.5,   30,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 41.5,   31,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 49.2,    1,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 59.1,    2,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 39.3,    3,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 35.9,    4,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 55.1,    5,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 52.4,    6,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 44.4,    7,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.1,    8,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 51.1,    9,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 59.7,   10,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 29.7,   11,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 29.7,   12,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 38.4,   13,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 42.1,   15,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 53.5,   16,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 45.9,   17,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 43.7,   18,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 40.8,   19,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 43.3,   20,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 38.8,   21,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 44.4,   22,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.8,   23,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 56.1,   24,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.9,   25,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.9,   26,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 32.2,   27,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 38.0,   28,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 62.9,   29,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 52.4,   30,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 46.2,    1,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 47.8,    2,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 47.8,    3,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 44.8,    4,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 51.1,    5,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 68.1,    6,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 71.7,    7,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 45.4,    8,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 46.6,    9,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 46.5,   10,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.4,   12,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 41.3,   13,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 47.1,   14,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 48.1,   15,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 49.1,   16,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 50.8,   17,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 29.9,   18,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 33.1,   19,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 40.8,   20,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 53.4,   21,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 55.4,   22,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 60.1,   23,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 49.5,   24,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 32.6,   25,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 53.5,   26,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 60.0,   27,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 38.3,   28,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 45.0,   29,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 33.1,   30,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 22.4,   31,   12,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 24.6,   18,   10,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 41.1,   14,   11,  2022,            3.6
+Toulouse - Rte Albi Trafic            , Trafic      , 49.6,    5,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 34.4,    1,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 35.6,    2,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 44.3,    6,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 20.2,    7,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 50.5,    8,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 12.1,    9,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 10.5,   10,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 46.0,   11,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 43.6,   12,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 39.4,   13,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 34.4,   14,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 11.6,   15,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      ,  3.5,   16,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      ,  4.7,   17,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      ,  4.9,   18,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      ,  6.4,   19,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 13.6,   20,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 34.1,   21,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 13.0,   22,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 12.3,   23,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 53.5,   24,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 26.3,   25,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 20.7,   26,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      ,  6.5,   27,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      ,  6.5,   28,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      ,  5.1,   29,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      ,  5.8,   30,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 25.3,   31,   10,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 37.1,    1,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 39.8,    2,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 24.3,    3,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 30.2,    4,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 47.1,    5,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 40.9,    6,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 17.6,    7,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 29.7,    8,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 42.3,    9,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 51.7,   10,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 13.9,   11,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      ,  7.9,   12,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 19.1,   13,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 29.7,   14,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 20.9,   15,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 26.5,   16,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 37.7,   17,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 43.9,   18,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 39.5,   19,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 32.5,   20,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 25.7,   21,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 40.9,   22,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 39.7,   23,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 42.2,   24,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 45.8,   25,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 38.7,   26,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 19.8,   27,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 38.2,   28,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 50.6,   29,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 42.2,   30,   11,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 39.1,    1,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 38.8,    2,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 38.0,    3,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 30.0,    4,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 28.5,    5,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 56.7,    6,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 56.3,    7,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 18.9,    8,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 33.4,    9,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 34.7,   10,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 45.6,   11,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 30.8,   12,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 22.6,   13,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 26.2,   14,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 42.2,   15,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 41.1,   16,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 34.4,   17,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 16.6,   18,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 10.0,   19,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 15.9,   20,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 42.6,   21,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 43.4,   22,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 42.4,   23,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 34.4,   24,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 13.0,   25,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 41.8,   26,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 51.1,   27,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 16.4,   28,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 23.1,   29,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      , 12.1,   30,   12,  2022,            3.6
+Toulouse - Port de l Embouchure Trafic, Trafic      ,  7.1,   31,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 15.6,   13,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        ,  8.3,   31,   10,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 13.1,   27,   11,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 25.5,   24,   12,  2022,            3.6
+Toulouse-Berthelot Urbain             , Fond        , 11.9,   30,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 15.8,    1,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 15.6,    2,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 27.3,    3,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 30.5,    4,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  9.6,    5,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 20.2,    6,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 14.6,    7,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 17.1,    8,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  9.8,    9,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  7.2,   10,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 23.9,   11,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 22.8,   12,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 19.3,   13,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 13.8,   14,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  9.8,   15,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  3.0,   16,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  4.4,   17,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  4.3,   18,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  6.0,   19,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  8.5,   20,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 19.5,   21,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 10.9,   22,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  8.0,   23,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 26.4,   24,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 18.3,   25,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 12.9,   26,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  6.1,   27,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  5.6,   28,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  4.3,   29,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  4.9,   30,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 10.3,   31,   10,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 19.0,    1,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 22.5,    2,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  9.7,    3,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  7.1,    4,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 20.8,    5,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 22.9,    6,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 14.1,    7,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 14.3,    8,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 21.6,    9,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 30.5,   10,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 11.8,   11,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  5.6,   12,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 13.2,   13,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 13.4,   14,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 12.0,   15,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 19.6,   16,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 18.0,   17,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 10.3,   18,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  9.8,   19,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 13.7,   20,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 11.4,   21,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 17.5,   22,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 20.2,   23,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 33.4,   24,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 23.0,   25,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 26.1,   26,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 14.4,   27,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 10.4,   28,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 22.5,   29,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 28.7,   30,   11,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 19.0,    1,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 24.5,    2,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 24.2,    3,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 25.0,    4,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 22.2,    5,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 39.9,    6,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 40.2,    7,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 15.7,    8,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 22.6,    9,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 18.4,   10,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 36.7,   11,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 26.8,   12,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 19.5,   13,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 22.5,   14,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 26.0,   15,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 29.3,   16,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 17.1,   17,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 10.6,   18,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  7.8,   19,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  9.7,   20,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 13.8,   28,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        , 17.1,   29,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  9.0,   30,   12,  2022,            3.6
+Toulouse-Jacquier Urbain              , Fond        ,  5.3,   31,   12,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 25.5,   19,   10,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 46.2,   14,   11,  2022,            3.6
+Toulouse-Périphérique Observation     , Trafic      , 62.2,   11,   12,  2022,            3.6
