@@ -1,27 +1,32 @@
 import sqlite3
-import csv
+import pandas as pd
 
-def colonnes_presentes(reader, colonnes):
-    return all(col in reader.fieldnames for col in colonnes)
-
-def creation_base(base_chemin, fichiers, req_create, req_insert, colonnes):
+def creation_base(base_chemin, fichiers, req_create, table_name, colonnes):
     connexion = sqlite3.connect(base_chemin)
-    curs = connexion.cursor()
-    curs.execute("PRAGMA foreign_keys = ON")   
-    curs.execute(req_create)
+    # Activer les clés étrangères
+    connexion.execute("PRAGMA foreign_keys = ON")   
+    # Créer la table si elle n'existe pas
+    connexion.execute(req_create)
 
     for fichier_csv in fichiers:
-        with open(fichier_csv, newline='', encoding='utf-8') as file:
-            reader = csv.DictReader(file)
-
-            if not colonnes_presentes(reader, colonnes):
-                continue
-
-            for row in reader:
-                curs.execute(req_insert, row)
+        try:
+            # Lire le header pour vérifier les colonnes sans charger tout le fichier
+            df_header = pd.read_csv(fichier_csv, nrows=0)
+            if all(col in df_header.columns for col in colonnes):
+                # Charger uniquement les colonnes nécessaires
+                df = pd.read_csv(fichier_csv, usecols=colonnes)
+                # Supprimer les doublons éventuels du DataFrame avant insertion
+                df.drop_duplicates(inplace=True)
+                # Insérer les données dans SQLite
+                # Note: to_sql ne supporte pas nativement "INSERT OR IGNORE". 
+                # Si des erreurs de clé primaire surviennent, l'exécution s'arrête ou peut être gérée par bloc.
+                df.to_sql(table_name, connexion, if_exists='append', index=False)
+                print(f"Données de {fichier_csv} insérées dans {table_name}")
+        except Exception as e:
+            print(f"Info: {fichier_csv} ignoré ou erreur : {e}")
                 
-    connexion.commit()
-    return connexion, curs
+    connexion.close()
+    return None, None
 
 chemin = "BaseDeDonnee/base_donnee.db"
 
@@ -223,7 +228,16 @@ colonnes_mesure_pollution = [
 
 
 fichiers_csv = [DONNE_SOCIO, DONNEE_GEO, DONNEE_MOJ]
-conn, cur = creation_base(chemin, fichiers_csv, query_create_MESURE_POLLUTION, query_insert_MESURE_POLLUTION, colonnes_mesure_pollution)
 
-cur.close()
-conn.close()
+# On crée et remplit toutes les tables
+tables_a_creer = [
+    (query_create_region, "REGIONS", colonnes_region),
+    (query_create_departement, "DEPARTEMENTS", colonnes_departement),
+    (query_create_commune, "COMMUNES", colonnes_commune),
+    (query_create_CLIMAT_MENSUEL, "CLIMAT_MENSUEL", colonnes_climat),
+    (query_create_station, "STATION", colonnes_station),
+    (query_create_MESURE_POLLUTION, "MESURE_POLLUTION", colonnes_mesure_pollution)
+]
+
+for query, name, cols in tables_a_creer:
+    creation_base(chemin, fichiers_csv, query, name, cols)

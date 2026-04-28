@@ -1,25 +1,16 @@
 import sqlite3
-import csv
+import pandas as pd
 
 chemin = "BaseDeDonnee/base_donnee.db"
 
 def creation_file(base_chemin, requete, fichier, nom_prb):
-    
     connexion = sqlite3.connect(base_chemin)
-    curs = connexion.cursor()
-
-    curs.execute(requete)
-    lignes = curs.fetchall()
-
-    colonne_nom = [description[0] for description in curs.description]
-    with open(fichier, mode='w', newline= '', encoding="utf-8") as file :
-        writer = csv.writer(file)
-        writer.writerow(colonne_nom)
-        writer.writerows(lignes)
-
+    # Pandas exécute la requête et crée le DataFrame d'un coup
+    df = pd.read_sql_query(requete, connexion)
+    # Sauvegarde en CSV très simple
+    df.to_csv(fichier, index=False, encoding="utf-8")
+    
     print("Fichier CSV pour problématique ",nom_prb," créé")
-
-    curs.close()
     connexion.close()
 
 problematique_1 = 1
@@ -122,5 +113,8 @@ JOIN CLIMAT_MENSUEL AS cm
     ON c.code_insee_com = cm.code_insee_com;
 """
 
-CHEMIN_FICHIER = 'FichierProbs/influence_territoire_polluant.csv'
-creation_file(chemin, query_Prob_4, CHEMIN_FICHIER, problematique_4)
+# Extraction de toutes les problématiques
+creation_file(chemin, query_Prob_1, 'FichierProbs/no2_vent_toulouse.csv', problematique_1)
+creation_file(chemin, query_Prob_2, 'FichierProbs/climat_territoire.csv', problematique_2)
+creation_file(chemin, query_Prob_3, 'FichierProbs/facteurs_distinction.csv', problematique_3)
+creation_file(chemin, query_Prob_4, 'FichierProbs/influence_territoire_polluant.csv', problematique_4)
