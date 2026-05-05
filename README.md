@@ -1,3 +1,4 @@
+![Illustration du projet](Copilot_20260505_084250.png)
 Analyse de la Qualité de l’Air en Occitanie — Description Académique
 Ce projet s’inscrit dans une démarche de Data Engineering appliquée à l’étude environnementale. Il consiste à intégrer, structurer et analyser des données climatiques, géographiques et atmosphériques relatives à la région Occitanie.
 Un pipeline ETL permet d’ingérer et de nettoyer des fichiers CSV hétérogènes avant leur intégration dans une base de données relationnelle SQLite, modélisée selon les principes de normalisation et d’intégrité référentielle.
